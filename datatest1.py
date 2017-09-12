@@ -5,4 +5,7 @@ dict = {"country": ["Brazil", "Russia", "India", "China", "South Africa"],
 
 import pandas as pd
 brics = pd.DataFrame(dict)
+
+brics.index = ["BR", "RU", "IN", "CH", "SA"]
+
 print(brics)
