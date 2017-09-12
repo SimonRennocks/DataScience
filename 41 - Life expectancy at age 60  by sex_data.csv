@@ -1,5 +1,3 @@
-41 - Life expectancy at age 60  by sex
-
 Indicator Name,Region,Country Code,Country,Year,Sex,Value,LowerBound,UpperBound,NatureDataID,OriginDataID,Footnote1,Footnote2,Footnote3,Footnote4,Footnote5,Footnote6,Coverage
 Access to anti-retroviral drug  by sex,Southern Asia,4,Afghanistan,2012,Female,7,2,18,3,1,-,-,-,-,-,-,-
 Access to anti-retroviral drug  by sex,Southern Asia,4,Afghanistan,2012,Male,14,5,33,3,1,-,-,-,-,-,-,-
